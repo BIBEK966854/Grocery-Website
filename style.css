@@ -110,6 +110,13 @@ body {
   display: flex;
   align-items: center;
 }
+/* .search-box-btn{
+  cursor: pointer;
+  width: 20px;
+  outline: none;
+  background: var(--green);
+  padding: 0 1rem;
+} */
 
 .icon-btn {
   background: #f9f9f9;
